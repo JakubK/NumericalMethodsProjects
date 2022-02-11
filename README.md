@@ -15,6 +15,6 @@ Implemented methods:
 
 MD3 - Interpolation of few given altitude profiles in csv format using following methods:
 - Lagrange's Interpolation Polynominal 
-- Splines of third degree methods
+- Splines of third degree
 
 Script shows visualialization comparing the interpolated results with the real ones.
