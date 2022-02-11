@@ -13,7 +13,7 @@ Implemented methods:
 - Jacobi's
 - Gaus-Seidl
 
-MD3 - Interpolation of few given altitude profiles in csv format using following methods:
+`MD3` - Interpolation of few given altitude profiles in csv format using following methods:
 - Lagrange's Interpolation Polynominal 
 - Splines of third degree
 
